@@ -1,7 +1,7 @@
 ﻿## Payslip Project
 
 ### Specs
-This project is written using the .Net 9.0 framework.
+This project is written using .NET 9.0.
 
 ### Details
 Payslip created to calculate the employees monthly payslip.
@@ -12,8 +12,8 @@ Payslip created to calculate the employees monthly payslip.
 
 ##### Payslip Attributes
 - Name
-- Gross monthly income = annaual salary / 12 (months)
-- Monthly income tax = (annual tax rate rate as below) / 12 (months)
+- Gross monthly income = annual salary / 12 (months)
+- Monthly income tax = (annual tax rate as below) / 12 (months)
 - Net monthly income = gross monthly income - monthly income tax
 
 ##### Tax Rates
